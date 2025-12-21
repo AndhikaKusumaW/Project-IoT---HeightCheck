@@ -86,11 +86,11 @@
 
     <script>
         // IP ESP32 Sensor (Ultrasonik)
-        const espSensorIp = "http://10.14.115.128/ukur";
+        const espSensorIp = "http://10.164.116.128/ukur";
 
         // IP ESP32 LCD (YANG BARU SAJA ANDA UPLOAD)
         // Ganti IP di bawah ini dengan IP yang muncul di Serial Monitor ESP LCD!
-        const espLcdIp = "http://10.14.115.99/trigger-visual"; // <--- GANTI 'xxx'
+        const espLcdIp = "http://10.164.116.151/trigger-visual"; // <--- GANTI 'xxx'
 
         // Variabel waktu data terakhir
         let lastDataTime = "";
