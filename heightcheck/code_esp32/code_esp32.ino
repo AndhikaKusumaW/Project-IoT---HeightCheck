@@ -7,7 +7,7 @@ const char* ssid = "advan";
 const char* password = "kontolbanget";
 
 // IP Komputer Server (Tempat file PHP berada)
-const char* phpServer = "http://10.14.115.150/project_iot/Project-IoT---HeightCheck/heightcheck/config/data_processing.php";
+const char* phpServer = "http://10.164.116.150/project_iot/Project-IoT---HeightCheck/heightcheck/config/data_processing.php";
 
 // Membuat Web Server di port 80
 WebServer server(80);
